@@ -1,0 +1,8 @@
+path: 'K:\\ML\\Projects\\vista\\YYOOLLOO\\data'
+train: 'images\\train'
+val: 'images\\val'
+test: 'images\\test'
+
+# class names
+names: 
+  0: 'head'
